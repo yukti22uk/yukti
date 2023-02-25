@@ -1,0 +1,1213 @@
+[{
+	"pps_id": 33,
+	"location": "113.303",
+	"status": "put_mode",
+	"queue_barcodes": ["112.302", "112.301", "112.300", "113.300", "113.301", "071.350", "113.303", "113.304", "113.305", "112.305"],
+	"pick_position": "113.303",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/33/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3301",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3302",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3303",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3304",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [303, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 34,
+	"location": "113.311",
+	"status": "put_mode",
+	"queue_barcodes": ["112.310", "112.309", "112.308", "113.308", "113.309", "113.310", "113.311", "113.312", "113.313", "112.313"],
+	"pick_position": "113.311",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/34/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3401",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3402",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3403",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3404",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [311, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 20,
+	"location": "041.076",
+	"status": "pick_mode",
+	"queue_barcodes": ["042.075", "075.351", "042.073", "042.072", "042.071", "041.071", "041.072", "041.073", "041.074", "041.075", "041.076", "041.077", "041.078", "042.078"],
+	"pick_position": "041.076",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/40/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [76, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 27,
+	"location": "105.105",
+	"status": "put_mode",
+	"queue_barcodes": ["104.104", "104.103", "104.102", "105.102", "105.103", "105.104", "105.105", "105.106", "105.107", "104.107"],
+	"pick_position": "105.105",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/27/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "2701",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2702",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2703",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2704",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [105, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 23,
+	"location": "041.013",
+	"status": "put_mode",
+	"queue_barcodes": ["042.014", "042.015", "042.016", "042.017", "041.017", "041.016", "041.015", "041.014", "041.013", "041.012", "041.011", "042.011"],
+	"pick_position": "041.013",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/23/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [13, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 29,
+	"location": "105.121",
+	"status": "put_mode",
+	"queue_barcodes": ["104.120", "104.119", "104.118", "105.118", "105.119", "105.120", "105.121", "105.122", "105.123", "105.124", "104.124"],
+	"pick_position": "105.121",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/29/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "2901",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2902",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2903",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2904",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [121, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 25,
+	"location": "105.090",
+	"status": "put_mode",
+	"queue_barcodes": ["104.089", "104.088", "104.087", "105.087", "105.088", "105.089", "105.090", "105.091", "105.092", "104.092"],
+	"pick_position": "105.090",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/25/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "2501",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2502",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2503",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2504",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [90, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 36,
+	"location": "113.326",
+	"status": "put_mode",
+	"queue_barcodes": ["112.325", "112.324", "112.323", "113.323", "113.324", "113.325", "113.326", "113.327", "113.328", "112.328"],
+	"pick_position": "113.326",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/36/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3601",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3602",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3603",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3604",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [326, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 5,
+	"location": "006.252",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.253", "007.254", "007.255", "007.256", "007.257", "006.257", "006.256", "006.255", "006.254", "006.253", "006.252", "006.251", "006.250", "007.250"],
+	"pick_position": "006.252",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/5/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [252, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 28,
+	"location": "105.113",
+	"status": "audit_mode",
+	"queue_barcodes": ["104.112", "104.111", "104.110", "105.110", "105.111", "105.112", "105.113", "105.114", "105.115", "104.115"],
+	"pick_position": "105.113",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/28/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "2801",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2802",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2803",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2804",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [113, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 15,
+	"location": "031.136",
+	"status": "pick_mode",
+	"queue_barcodes": ["030.137", "029.137", "028.137", "027.137", "026.137", "026.136", "009.350", "008.350", "029.136", "030.136", "031.136", "032.136", "033.136", "033.137"],
+	"pick_position": "031.136",
+	"pick_direction": 1,
+	"pps_url": "http://30.224.76.56:8181/pps/15/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [136, 31],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 19,
+	"location": "041.088",
+	"status": "pick_mode",
+	"queue_barcodes": ["042.089", "042.090", "042.091", "042.092", "042.093", "041.093", "041.092", "041.091", "041.090", "041.089", "041.088", "041.087", "041.086", "042.086"],
+	"pick_position": "041.088",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/19/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [88, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 42,
+	"location": "113.070",
+	"status": "put_mode",
+	"queue_barcodes": ["112.069", "112.068", "112.067", "113.067", "049.350", "113.069", "113.070", "113.071", "113.072", "112.072"],
+	"pick_position": "113.070",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/42/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "4201",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4202",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4203",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4204",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [70, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 12,
+	"location": "006.173",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.172", "007.171", "007.170", "007.169", "007.168", "006.168", "006.169", "006.170", "016.350", "017.350", "006.173", "006.174", "006.175", "007.175"],
+	"pick_position": "006.173",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/12/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [173, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 11,
+	"location": "006.183",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.184", "007.185", "007.186", "007.187", "007.188", "020.350", "006.187", "006.186", "006.185", "006.184", "006.183", "006.182", "006.181", "007.181"],
+	"pick_position": "006.183",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/11/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [183, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 17,
+	"location": "094.351",
+	"status": "pick_mode",
+	"queue_barcodes": ["042.113", "042.114", "095.351", "096.351", "042.117", "041.117", "041.116", "041.115", "041.114", "041.113", "094.351", "041.111", "041.110", "042.110"],
+	"pick_position": "094.351",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/17/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [112, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 18,
+	"location": "041.101",
+	"status": "pick_mode",
+	"queue_barcodes": ["086.351", "042.099", "085.351", "042.097", "042.096", "041.096", "041.097", "041.098", "041.099", "041.100", "041.101", "041.102", "041.103", "042.103"],
+	"pick_position": "041.101",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/18/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [101, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 37,
+	"location": "113.333",
+	"status": "put_mode",
+	"queue_barcodes": ["112.332", "112.331", "112.330", "113.330", "113.331", "113.332", "113.333", "113.334", "113.335", "112.335"],
+	"pick_position": "113.333",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/37/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3701",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3702",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3703",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3704",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [333, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 14,
+	"location": "006.149",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.150", "007.151", "007.152", "007.153", "007.154", "006.154", "006.153", "006.152", "006.151", "006.150", "006.149", "006.148", "006.147", "007.147"],
+	"pick_position": "006.149",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/14/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [149, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 6,
+	"location": "006.242",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.241", "007.240", "007.239", "007.238", "007.237", "006.237", "006.238", "006.239", "031.350", "006.241", "006.242", "006.243", "006.244", "007.244"],
+	"pick_position": "006.242",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/6/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [242, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 38,
+	"location": "074.350",
+	"status": "put_mode",
+	"queue_barcodes": ["112.339", "112.338", "112.337", "113.337", "113.338", "113.339", "074.350", "075.350", "076.350", "112.342"],
+	"pick_position": "074.350",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/38/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3801",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3802",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3803",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3804",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [340, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 13,
+	"location": "006.160",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.161", "007.162", "007.163", "007.164", "007.165", "006.165", "006.164", "006.163", "006.162", "006.161", "006.160", "006.159", "006.158", "007.158"],
+	"pick_position": "006.160",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/13/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [160, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 10,
+	"location": "006.196",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.195", "007.194", "007.193", "007.192", "007.191", "006.191", "006.192", "006.193", "006.194", "006.195", "006.196", "006.197", "006.198", "007.198"],
+	"pick_position": "006.196",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/10/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [196, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 24,
+	"location": "096.350",
+	"status": "put_mode",
+	"queue_barcodes": ["104.082", "104.081", "104.080", "105.080", "105.081", "105.082", "096.350", "105.084", "002.242", "001.242"],
+	"pick_position": "096.350",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/24/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "2401",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2402",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2403",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2404",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [83, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 30,
+	"location": "105.128",
+	"status": "put_mode",
+	"queue_barcodes": ["104.127", "104.126", "104.125", "105.125", "105.126", "105.127", "105.128", "105.129", "105.130", "104.130"],
+	"pick_position": "105.128",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/30/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3001",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3002",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3003",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3004",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [128, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 40,
+	"location": "037.041",
+	"status": "put_mode",
+	"queue_barcodes": ["112.053", "112.052", "112.051", "113.051", "113.052", "113.053", "037.041", "113.055", "048.350", "112.056"],
+	"pick_position": "037.041",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/40/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "4001",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4002",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4003",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4004",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [54, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 22,
+	"location": "041.032",
+	"status": "put_mode",
+	"queue_barcodes": ["042.031", "042.030", "042.029", "111.354", "110.354", "109.354", "041.030", "041.031", "041.032", "041.033", "041.034", "042.034"],
+	"pick_position": "041.032",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/22/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [32, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 1,
+	"location": "006.297",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.298", "007.299", "007.300", "007.301", "007.302", "006.302", "006.301", "006.300", "006.299", "006.298", "006.297", "006.296", "006.295", "007.295"],
+	"pick_position": "006.297",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/1/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [297, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 26,
+	"location": "105.098",
+	"status": "put_mode",
+	"queue_barcodes": ["104.097", "104.096", "104.095", "105.095", "105.096", "105.097", "105.098", "105.099", "105.100", "104.100"],
+	"pick_position": "105.098",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/26/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "2601",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2602",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2603",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "2604",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [98, 105],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 9,
+	"location": "006.206",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.207", "007.208", "007.209", "007.210", "007.211", "006.211", "025.350", "006.209", "006.208", "006.207", "006.206", "006.205", "006.204", "007.204"],
+	"pick_position": "006.206",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/9/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [206, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 2,
+	"location": "006.287",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.286", "007.285", "007.284", "007.283", "007.282", "006.282", "006.283", "006.284", "006.285", "006.286", "006.287", "006.288", "006.289", "007.289"],
+	"pick_position": "006.287",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/2/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [287, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 21,
+	"location": "041.040",
+	"status": "put_mode",
+	"queue_barcodes": ["042.041", "042.042", "042.043", "042.044", "041.044", "041.043", "041.042", "041.041", "041.040", "041.039", "041.038", "042.038"],
+	"pick_position": "041.040",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/21/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [40, 41],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 8,
+	"location": "006.219",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.218", "007.217", "007.216", "007.215", "007.214", "006.214", "006.215", "006.216", "006.217", "006.218", "006.219", "006.220", "006.221", "007.221"],
+	"pick_position": "006.219",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/8/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [219, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 4,
+	"location": "038.350",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.264", "007.263", "007.262", "007.261", "007.260", "036.350", "006.261", "006.262", "006.263", "006.264", "038.350", "006.266", "062.351", "007.267"],
+	"pick_position": "038.350",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/4/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": true,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [265, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 35,
+	"location": "113.318",
+	"status": "put_mode",
+	"queue_barcodes": ["112.317", "112.316", "112.315", "113.315", "113.316", "113.317", "113.318", "113.319", "113.320", "112.320"],
+	"pick_position": "113.318",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/35/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3501",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3502",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3503",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3504",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [318, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 31,
+	"location": "113.288",
+	"status": "put_mode",
+	"queue_barcodes": ["112.287", "112.286", "112.285", "113.285", "113.286", "113.287", "113.288", "113.289", "113.290", "069.350"],
+	"pick_position": "113.288",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/31/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3101",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3102",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3103",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3104",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [288, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 32,
+	"location": "113.295",
+	"status": "put_mode",
+	"queue_barcodes": ["112.294", "112.293", "112.292", "113.292", "113.293", "113.294", "113.295", "113.296", "113.297", "112.297"],
+	"pick_position": "113.295",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/32/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "3201",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3202",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3203",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "3204",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [295, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 41,
+	"location": "113.061",
+	"status": "audit_mode",
+	"queue_barcodes": ["112.060", "112.059", "112.058", "113.058", "113.059", "113.060", "113.061", "113.062", "113.063", "112.063"],
+	"pick_position": "113.061",
+	"pick_direction": 2,
+	"pps_url": "http://30.224.76.56:8181/pps/41/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [{
+		"dock_station_id": "4101",
+		"rollcage_type_id": "put_1",
+		"group_id": 1,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4102",
+		"rollcage_type_id": "put_1",
+		"group_id": 2,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4103",
+		"rollcage_type_id": "put_1",
+		"group_id": 3,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}, {
+		"dock_station_id": "4104",
+		"rollcage_type_id": "put_1",
+		"group_id": 4,
+		"tags": [],
+		"docking_type": "manual",
+		"dock_station_type": "mru"
+	}],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [61, 113],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 7,
+	"location": "028.350",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.230", "007.231", "007.232", "007.233", "007.234", "006.234", "006.233", "006.232", "006.231", "029.350", "028.350", "006.228", "006.227", "007.227"],
+	"pick_position": "028.350",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/7/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [229, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 3,
+	"location": "006.275",
+	"status": "pick_mode",
+	"queue_barcodes": ["007.276", "007.277", "007.278", "007.279", "007.280", "006.280", "006.279", "006.278", "006.277", "006.276", "006.275", "006.274", "006.273", "007.273"],
+	"pick_position": "006.275",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/3/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": true,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [275, 6],
+		"type": "rtp"
+	}]
+}, {
+	"pps_id": 16,
+	"location": "041.127",
+	"status": "pick_mode",
+	"queue_barcodes": ["042.128", "042.129", "109.351", "114.351", "042.132", "041.132", "041.131", "041.130", "041.129", "108.351", "041.127", "107.351", "041.125", "042.125"],
+	"pick_position": "041.127",
+	"pick_direction": 0,
+	"pps_url": "http://30.224.76.56:8181/pps/16/api/",
+	"allowed_modes": ["put", "pick", "audit"],
+	"paused": false,
+	"type": "manual",
+	"dock_station_info": [],
+	"pps_points": [{
+		"id": 1,
+		"coordinate": [127, 41],
+		"type": "rtp"
+	}]
+}, {
+	"location": "105.136",
+	"status": "disconnected",
+	"queue_barcodes": ["104.134", "104.133", "104.132", "105.132", "105.133", "105.134", "105.135", "105.136", "105.137", "104.137"],
+	"pick_position": "105.136",
+	"pick_direction": 2,
+	"put_docking_positions": [],
+	"allowed_modes": ["put", "pick", "audit"],
+	"type": "manual",
+	"pps_id": 39,
+	"pps_url": "http://localhost:8181/pps/43/api/"
+}]
